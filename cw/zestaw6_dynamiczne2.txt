@@ -1,0 +1,9 @@
+zad 1 (Black Forest)
+f(x) - maksymalny zysk z wycinki do danego miejsca włącznie
+f(x) = max(f(i-2)+C[i], f(i-1))
+
+zad 2
+f(x) - maksymalna wysokość stosu kończąco sie na danym elemencie
+f(x) = max(f(k)+1), po k od 0 do x takich, że na klocku k można umieścić klocek x
+
+zad 3

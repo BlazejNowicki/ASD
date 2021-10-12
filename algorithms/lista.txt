@@ -1,0 +1,32 @@
+Sortowanie topologiczne
+Silne spójne składowe
+
+MST:
+Algorytm Kruskala
+ - O(E log E)
+ - lepsze kiedy mamy liste krawędzi
+Algorytm Prima - O(E log V)
+ - O(E log V)
+
+Algortym Dijkstry
+ - O(E log V)
+
+Alorytm Bellmana-Forda
+ - O(V * E)
+ - odległości jeden - wszystkie
+ - działa dla ujemnych wag
+ - przydatne wykrywanie ujemnego cyklu
+
+Algorytm Floyda-Warshalla
+ - O(V^3)
+ - odległości każdy z każdym
+
+Metoda Forda-Fulkersona
+ - O(V * E^2) - dla wykrywania ścieżek BFSem
+ - problem maksymalnego przepływu
+
+Drzewa BST
+Drzewa Czerwono-czarne
+B-Drzewa
+Drzewa przedziałowe
+ - przydatne jako ogólna idea
